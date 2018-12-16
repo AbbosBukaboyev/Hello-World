@@ -1,3 +1,4 @@
 # hello-world
 Just another repository
-salomlar
+Salom mening ismim Abbos
+
